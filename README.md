@@ -68,3 +68,11 @@ To help Amazon Prime:
 ## 🚀 How to Run
 
 1. Clone the repository:
+2. 2. Open in Jupyter Notebook.
+3. Run `Sample_EDA_Submission_Template.ipynb`.
+4. (Optional) Run the ML notebook for IMDb score prediction.
+
+--- 📬 Contact
+
+For questions or feedback, feel free to reach out via GitHub Issues or email at dongardivebhushan396@gmail.com.
+
